@@ -1,0 +1,123 @@
+[+] Containers:
+ |- [+] Container: /Game/Sistema_Solar
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:09E0777449E9DF0AF0925C84D7A9ECCD BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748EDB1102_1828910994 Label:Urano SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=560254.960 Y=-3986.964 Z=-4503.041), Max=(X=569261.042 Y=3986.963 Z=4503.041) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |- Guid:1E5E148047D5D850F2134699DFC167EA BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748EDB1102_1266395991 Label:Saturno SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=326081.522 Y=-18855.616 Z=-12321.097), Max=(X=359682.478 Y=18855.616 Z=12321.098) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |- Guid:1F4949A4438C683E42738991D3DE2FC1 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_E4A8DFF3748E561002_1106025529 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:458B68EB4731CAAB354D0DA901D2B8BF BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748E5D1102_1650310822 Label:Terra SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=132616.034 Y=-1003.548 Z=-1324.966), Max=(X=135265.966 Y=1003.547 Z=1324.966) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |- Guid:753A92B44EF6CF03874C8FA59F65C9A0 BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748EDB1102_2033450995 Label:Netuno SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=815231.372 Y=-3865.391 Z=-5227.628), Max=(X=825686.627 Y=3865.390 Z=5227.628) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |- Guid:768CA6414C9A04811C1B64B17A9E9806 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:914FBD1D4F9CEC8A9B8BBCB507CDFDC3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E951002_1315253616 Label:Espa?o SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000000.000 Y=-3000000.414 Z=-3000000.048), Max=(X=3000000.549 Y=2999999.681 Z=3000000.048) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9A62BEA14705CD714F6968BF748CD115 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_E4A8DFF3748E561002_1645451531 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100.000 Y=-100.000 Z=-100.000), Max=(X=100.000 Y=100.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A3611DBC440AB7765903C59CED5E0008 BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748E5D1102_1196442821 Label:Venus SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=126287.209 Y=-952.257 Z=-1000.789), Max=(X=128288.788 Y=952.257 Z=1000.789) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |- Guid:C12F1D6842D320CFD87FF09F98850D25 BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748E5E1102_1073859000 Label:Marte SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=145029.259 Y=-532.566 Z=-707.741), Max=(X=146444.742 Y=532.566 Z=707.741) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |- Guid:E2E037094DEF6BE23B0D8AAAA428CA54 BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748E5C1102_1551734644 Label:Mercurio SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=118467.704 Y=-390.295 Z=-390.295), Max=(X=119248.294 Y=390.295 Z=390.295) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |- Guid:EA3A69564685C0F5C87F2ABF6B37C3E6 BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748E5A1102_1953969288 Label:Jupiter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=231127.959 Y=-10986.128 Z=-11546.040), Max=(X=254220.041 Y=10986.126 Z=11546.040) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |- Guid:ECF17FD24A673EB88926DAA1655B1C9D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E961002_1181754793 Label:Sol SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-121694.126 Y=-109199.955 Z=-121694.168), Max=(X=121694.219 Y=109200.048 Z=121694.179) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |- Guid:F4FA2A1344E12062E9EDA1916463437A BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748E5D1102_1950859823 Label:Lua SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=133634.664 Y=-2762.563 Z=-306.336), Max=(X=134247.336 Y=-2212.793 Z=306.336) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:458B68EB4731CAAB354D0DA901D2B8BF
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:09E0777449E9DF0AF0925C84D7A9ECCD BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748EDB1102_1828910994 Label:Urano SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=560254.960 Y=-3986.964 Z=-4503.041), Max=(X=569261.042 Y=3986.963 Z=4503.041) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |   |- Guid:1E5E148047D5D850F2134699DFC167EA BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748EDB1102_1266395991 Label:Saturno SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=326081.522 Y=-18855.616 Z=-12321.097), Max=(X=359682.478 Y=18855.616 Z=12321.098) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |   |- Guid:458B68EB4731CAAB354D0DA901D2B8BF BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748E5D1102_1650310822 Label:Terra SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=132616.034 Y=-1003.548 Z=-1324.966), Max=(X=135265.966 Y=1003.547 Z=1324.966) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |   |- Guid:753A92B44EF6CF03874C8FA59F65C9A0 BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748EDB1102_2033450995 Label:Netuno SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=815231.372 Y=-3865.391 Z=-5227.628), Max=(X=825686.627 Y=3865.390 Z=5227.628) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |   |- Guid:914FBD1D4F9CEC8A9B8BBCB507CDFDC3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E951002_1315253616 Label:Espa?o SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000000.000 Y=-3000000.414 Z=-3000000.048), Max=(X=3000000.549 Y=2999999.681 Z=3000000.048) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:A3611DBC440AB7765903C59CED5E0008 BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748E5D1102_1196442821 Label:Venus SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=126287.209 Y=-952.257 Z=-1000.789), Max=(X=128288.788 Y=952.257 Z=1000.789) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |   |- Guid:C12F1D6842D320CFD87FF09F98850D25 BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748E5E1102_1073859000 Label:Marte SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=145029.259 Y=-532.566 Z=-707.741), Max=(X=146444.742 Y=532.566 Z=707.741) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |   |- Guid:E2E037094DEF6BE23B0D8AAAA428CA54 BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748E5C1102_1551734644 Label:Mercurio SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=118467.704 Y=-390.295 Z=-390.295), Max=(X=119248.294 Y=390.295 Z=390.295) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |   |- Guid:EA3A69564685C0F5C87F2ABF6B37C3E6 BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748E5A1102_1953969288 Label:Jupiter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=231127.959 Y=-10986.128 Z=-11546.040), Max=(X=254220.041 Y=10986.126 Z=11546.040) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |   |- Guid:ECF17FD24A673EB88926DAA1655B1C9D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E961002_1181754793 Label:Sol SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-121694.126 Y=-109199.955 Z=-121694.168), Max=(X=121694.219 Y=109200.048 Z=121694.179) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |   |   |- Guid:F4FA2A1344E12062E9EDA1916463437A BaseClass:/Game/Planeta.Planeta_C NativeClass:/Script/Engine.Actor Name:Planeta_C_UAID_E4A8DFF3748E5D1102_1950859823 Label:Lua SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=133634.664 Y=-2762.563 Z=-306.336), Max=(X=134247.336 Y=-2212.793 Z=306.336) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:458B68EB4731CAAB354D0DA901D2B8BF
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:1F4949A4438C683E42738991D3DE2FC1 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_E4A8DFF3748E561002_1106025529 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:768CA6414C9A04811C1B64B17A9E9806 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:9A62BEA14705CD714F6968BF748CD115 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_E4A8DFF3748E561002_1645451531 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100.000 Y=-100.000 Z=-100.000), Max=(X=100.000 Y=100.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-3000000.000 Y=-3000000.414 Z=-3000000.048), Max=(X=3000000.549 Y=2999999.681 Z=3000000.048)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Sistema_Solar
+----------------------------------------------------------------------------------------------------------------
+Sistema_Solar - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Sistema_Solar Persistent Level
+ |- Always loaded Actor Count: 20 
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Sistema_Solar
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Sistema_Solar
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Sistema_Solar
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.DirectionalLight_UAID_E4A8DFF3748E561002_1106025529
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/D/KZ/D9GIORV6D4W66MBBV2KVMQ
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Sistema_Solar
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.Planeta_C_UAID_E4A8DFF3748E5A1102_1953969288
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/D/QE/E2D22ZF62T2H69PH0TZX2X
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.Planeta_C_UAID_E4A8DFF3748E5C1102_1551734644
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/5/BN/ZC6TOPXT55XV506B5IGF7R
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.Planeta_C_UAID_E4A8DFF3748E5D1102_1196442821
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/8/TB/PWR0I80ATCV8SX4BCOEY11
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.Planeta_C_UAID_E4A8DFF3748E5D1102_1650310822
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/3/B7/EAYVAM4DV0WNHJNXS1IB7S
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.Planeta_C_UAID_E4A8DFF3748E5D1102_1950859823
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/1/X0/O9TEUR41UXRPRHOTDIGBE1
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.Planeta_C_UAID_E4A8DFF3748E5E1102_1073859000
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/9/XE/XWDWZEPU60B0YKDZMNNGE8
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.Planeta_C_UAID_E4A8DFF3748EDB1102_1266395991
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/2/SX/HQNU7VH9S2O6F450SUAX4V
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.Planeta_C_UAID_E4A8DFF3748EDB1102_1828910994
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/E/7I/FNQSV8GGEB2NNXGKJTA3Z0
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.Planeta_C_UAID_E4A8DFF3748EDB1102_2033450995
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/0/1S/M283YGWXC3JDTHF6HWTEAK
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.PostProcessVolume_UAID_E4A8DFF3748E561002_1645451531
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/A/1M/W717E7YCXQWO1MH2AVF200
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E951002_1315253616
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/A/X9/UH7IJ1E6PLRX10D2FBRP4V
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E961002_1181754793
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/B/PL/2JUACWN76CTM7DCIH9SLMX
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/6/P8/PC4LIP9YGD9UHRY4OY5PK1
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.WorldPartitionMiniMap_UAID_E4A8DFF3748E421002_1272814007
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/0/2O/GNL0GC7J6J5DVIR7SXFS0S
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Sistema_Solar
+
+----------------------------------------------------------------------------------------------------------------
+Sistema_Solar - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-3000000.000 Y=-3000000.414 Z=-3000000.048), Max=(X=3000000.549 Y=2999999.681 Z=3000000.048)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 10
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+ |- Level  2: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+ |- Level  3: Cell Count    0 | Cell Size  102400 | Actor Count    0 (0.0%)
+ |- Level  4: Cell Count    0 | Cell Size  204800 | Actor Count    0 (0.0%)
+ |- Level  5: Cell Count    0 | Cell Size  409600 | Actor Count    0 (0.0%)
+ |- Level  6: Cell Count    0 | Cell Size  819200 | Actor Count    0 (0.0%)
+ |- Level  7: Cell Count    0 | Cell Size 1638400 | Actor Count    0 (0.0%)
+ |- Level  8: Cell Count    0 | Cell Size 3276800 | Actor Count    0 (0.0%)
+ |- Level  9: Cell Count    0 | Cell Size 6553600 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+[+] Content of Grid Level 1
+[+] Content of Grid Level 2
+[+] Content of Grid Level 3
+[+] Content of Grid Level 4
+[+] Content of Grid Level 5
+[+] Content of Grid Level 6
+[+] Content of Grid Level 7
+[+] Content of Grid Level 8
+[+] Content of Grid Level 9
+

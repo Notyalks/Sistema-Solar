@@ -1,0 +1,249 @@
+[+] Containers:
+ |- [+] Container: /Game/Sistema_Solar
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:02E878BD43540521460A5BB9E6F8F212 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA51002_1939353445 Label:Jupiter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=231135.450 Y=-10979.001 Z=-11538.550), Max=(X=254212.552 Y=10978.999 Z=11538.550) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:08A650D64F9F6C8CEB3504B252CE4A8B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA21002_1398474912 Label:TerraAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=843421.194 Y=-6400.001 Z=-8449.806), Max=(X=860320.807 Y=6400.000 Z=8449.806) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:41DF3BF74C4944FAF6EDBEABFD9BF8F0
+ |   |   |- Guid:1069D8FA49B12BBEE68F75A510F82C13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA51002_1836880444 Label:MarteAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=922371.651 Y=-3400.000 Z=-4518.349), Max=(X=931408.349 Y=3400.000 Z=4518.349) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:6EB688F24206617284DF9ABA12ACBEAA
+ |   |   |- Guid:1EE7EE144886B67B3C420ABA8772BE43 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E9F1002_1745353381 Label:VenusAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=803183.148 Y=-6060.001 Z=-6368.851), Max=(X=815920.851 Y=6059.999 Z=6368.851) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:6DB5C108471D6E44C446F1A9B0427C77
+ |   |   |- Guid:1F4949A4438C683E42738991D3DE2FC1 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_E4A8DFF3748E561002_1106025529 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:37C576CE4745215098D9DC95ED0F59B8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E9C1002_1656491850 Label:Mercurio SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=118475.000 Y=-383.000 Z=-383.000), Max=(X=119241.000 Y=383.000 Z=383.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:387FC1024FF702D461650B831CEDC6E4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E9D1002_2140139027 Label:MercurioAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=753460.000 Y=-2480.000 Z=-2480.000), Max=(X=758420.000 Y=2480.000 Z=2480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:37C576CE4745215098D9DC95ED0F59B8
+ |   |   |- Guid:41DF3BF74C4944FAF6EDBEABFD9BF8F0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA01002_1968139559 Label:Terra SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=132620.718 Y=-1000.000 Z=-1320.282), Max=(X=135261.282 Y=1000.000 Z=1320.282) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6B2CF811428DDF5EA748F585FB5AC171 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EAE1002_1127024036 Label:Urano SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=560261.695 Y=-3981.000 Z=-4496.305), Max=(X=569254.305 Y=3980.999 Z=4496.306) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6DB5C108471D6E44C446F1A9B0427C77 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E9E1002_1342591204 Label:Venus SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=126289.583 Y=-950.000 Z=-998.417), Max=(X=128286.417 Y=950.000 Z=998.417) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6EB688F24206617284DF9ABA12ACBEAA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA21002_1954791915 Label:Marte SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=145030.011 Y=-532.000 Z=-706.989), Max=(X=146443.989 Y=532.000 Z=706.989) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:768CA6414C9A04811C1B64B17A9E9806 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:914FBD1D4F9CEC8A9B8BBCB507CDFDC3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E951002_1315253616 Label:Espa?o SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000000.000 Y=-3000000.414 Z=-3000000.048), Max=(X=3000000.549 Y=2999999.681 Z=3000000.048) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:992CA72E417A6444837F1D9299B92B99 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA21002_1902799914 Label:LuaAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=899351.715 Y=-1750.000 Z=20057.847), Max=(X=903252.170 Y=1750.000 Z=23958.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:DD4EA5DF455B44DE221DED80059C20AE
+ |   |   |- Guid:9A62BEA14705CD714F6968BF748CD115 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_E4A8DFF3748E561002_1645451531 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100.000 Y=-100.000 Z=-100.000), Max=(X=100.000 Y=100.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9BE6B3B44B76D961F87AC3B2ACB6882A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA01002_1678186558 Label:VenusAtm2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=803183.148 Y=-6060.001 Z=-6368.851), Max=(X=815920.851 Y=6059.999 Z=6368.851) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:6DB5C108471D6E44C446F1A9B0427C77
+ |   |   |- Guid:9F0D6E2F4E4F942712010FB69D15A311 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EB21002_1935122742 Label:Netuno SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=815238.662 Y=-3860.000 Z=-5220.338), Max=(X=825679.338 Y=3859.999 Z=5220.338) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B7B32CC446925FB65757E9AAECA33EC4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA61002_1460562623 Label:Saturno SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=330573.932 Y=-9151.001 Z=-12308.068), Max=(X=355190.069 Y=9150.999 Z=12308.068) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B80902134115EFA0C0A74F9DF034F767 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA61002_1325919622 Label:JupiterAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=231129.011 Y=-10985.128 Z=-11544.989), Max=(X=254218.991 Y=10985.125 Z=11544.989) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:02E878BD43540521460A5BB9E6F8F212
+ |   |   |- Guid:BB1AB5B94FB578EBA33E5B92C20655A4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EAC1002_1794818683 Label:Anel_Saturno SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2163929.689 Y=-18857.673 Z=-8561.207), Max=(X=2197534.311 Y=18857.673 Z=8561.207) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:B7B32CC446925FB65757E9AAECA33EC4
+ |   |   |- Guid:BBC0A3464DF0D28BED3AFE8C4A9129D5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E431102_1821782241 Label:SolAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-121762.032 Y=-109260.892 Z=-121762.077), Max=(X=121762.124 Y=109260.986 Z=121762.088) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:ECF17FD24A673EB88926DAA1655B1C9D
+ |   |   |- Guid:C05F71CC4D224A3C2255F0BBCD871655 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EB31002_1705620919 Label:NetunoAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5184784.868 Y=-24650.002 Z=-33337.131), Max=(X=5251459.136 Y=24649.996 Z=33337.133) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:9F0D6E2F4E4F942712010FB69D15A311
+ |   |   |- Guid:DD4EA5DF455B44DE221DED80059C20AE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA21002_1483717913 Label:Lua SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=851566.989 Y=-2760.477 Z=-304.011), Max=(X=852175.011 Y=-2214.880 Z=304.011) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:41DF3BF74C4944FAF6EDBEABFD9BF8F0
+ |   |   |- Guid:E4B87B45469493B7FB6B2291EC7171E1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA61002_1798253624 Label:SaturnoAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2102318.674 Y=-58300.007 Z=-78413.326), Max=(X=2259145.336 Y=58299.993 Z=78413.331) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:B7B32CC446925FB65757E9AAECA33EC4
+ |   |   |- Guid:ECF17FD24A673EB88926DAA1655B1C9D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E961002_1181754793 Label:Sol SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-121694.126 Y=-109199.955 Z=-121694.168), Max=(X=121694.219 Y=109200.048 Z=121694.179) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EF67C217430DDFB46500BBB694CA6563 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EB01002_1178953389 Label:UranoAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3563174.193 Y=-25400.004 Z=-28687.806), Max=(X=3620549.807 Y=25399.998 Z=28687.810) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:6B2CF811428DDF5EA748F585FB5AC171
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:02E878BD43540521460A5BB9E6F8F212 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA51002_1939353445 Label:Jupiter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=231135.450 Y=-10979.001 Z=-11538.550), Max=(X=254212.552 Y=10978.999 Z=11538.550) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:B80902134115EFA0C0A74F9DF034F767 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA61002_1325919622 Label:JupiterAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=231129.011 Y=-10985.128 Z=-11544.989), Max=(X=254218.991 Y=10985.125 Z=11544.989) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:02E878BD43540521460A5BB9E6F8F212
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:08A650D64F9F6C8CEB3504B252CE4A8B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA21002_1398474912 Label:TerraAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=843421.194 Y=-6400.001 Z=-8449.806), Max=(X=860320.807 Y=6400.000 Z=8449.806) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:41DF3BF74C4944FAF6EDBEABFD9BF8F0
+ |   |   |   |- Guid:41DF3BF74C4944FAF6EDBEABFD9BF8F0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA01002_1968139559 Label:Terra SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=132620.718 Y=-1000.000 Z=-1320.282), Max=(X=135261.282 Y=1000.000 Z=1320.282) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:992CA72E417A6444837F1D9299B92B99 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA21002_1902799914 Label:LuaAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=899351.715 Y=-1750.000 Z=20057.847), Max=(X=903252.170 Y=1750.000 Z=23958.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:DD4EA5DF455B44DE221DED80059C20AE
+ |   |   |   |- Guid:DD4EA5DF455B44DE221DED80059C20AE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA21002_1483717913 Label:Lua SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=851566.989 Y=-2760.477 Z=-304.011), Max=(X=852175.011 Y=-2214.880 Z=304.011) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:41DF3BF74C4944FAF6EDBEABFD9BF8F0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:1069D8FA49B12BBEE68F75A510F82C13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA51002_1836880444 Label:MarteAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=922371.651 Y=-3400.000 Z=-4518.349), Max=(X=931408.349 Y=3400.000 Z=4518.349) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:6EB688F24206617284DF9ABA12ACBEAA
+ |   |   |   |- Guid:6EB688F24206617284DF9ABA12ACBEAA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA21002_1954791915 Label:Marte SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=145030.011 Y=-532.000 Z=-706.989), Max=(X=146443.989 Y=532.000 Z=706.989) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1EE7EE144886B67B3C420ABA8772BE43 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E9F1002_1745353381 Label:VenusAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=803183.148 Y=-6060.001 Z=-6368.851), Max=(X=815920.851 Y=6059.999 Z=6368.851) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:6DB5C108471D6E44C446F1A9B0427C77
+ |   |   |   |- Guid:6DB5C108471D6E44C446F1A9B0427C77 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E9E1002_1342591204 Label:Venus SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=126289.583 Y=-950.000 Z=-998.417), Max=(X=128286.417 Y=950.000 Z=998.417) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:9BE6B3B44B76D961F87AC3B2ACB6882A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA01002_1678186558 Label:VenusAtm2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=803183.148 Y=-6060.001 Z=-6368.851), Max=(X=815920.851 Y=6059.999 Z=6368.851) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:6DB5C108471D6E44C446F1A9B0427C77
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:1F4949A4438C683E42738991D3DE2FC1 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_E4A8DFF3748E561002_1106025529 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:37C576CE4745215098D9DC95ED0F59B8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E9C1002_1656491850 Label:Mercurio SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=118475.000 Y=-383.000 Z=-383.000), Max=(X=119241.000 Y=383.000 Z=383.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:387FC1024FF702D461650B831CEDC6E4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E9D1002_2140139027 Label:MercurioAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=753460.000 Y=-2480.000 Z=-2480.000), Max=(X=758420.000 Y=2480.000 Z=2480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:37C576CE4745215098D9DC95ED0F59B8
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:6B2CF811428DDF5EA748F585FB5AC171 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EAE1002_1127024036 Label:Urano SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=560261.695 Y=-3981.000 Z=-4496.305), Max=(X=569254.305 Y=3980.999 Z=4496.306) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:EF67C217430DDFB46500BBB694CA6563 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EB01002_1178953389 Label:UranoAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3563174.193 Y=-25400.004 Z=-28687.806), Max=(X=3620549.807 Y=25399.998 Z=28687.810) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:6B2CF811428DDF5EA748F585FB5AC171
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:768CA6414C9A04811C1B64B17A9E9806 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:914FBD1D4F9CEC8A9B8BBCB507CDFDC3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E951002_1315253616 Label:Espa?o SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000000.000 Y=-3000000.414 Z=-3000000.048), Max=(X=3000000.549 Y=2999999.681 Z=3000000.048) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:9A62BEA14705CD714F6968BF748CD115 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_E4A8DFF3748E561002_1645451531 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100.000 Y=-100.000 Z=-100.000), Max=(X=100.000 Y=100.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:9F0D6E2F4E4F942712010FB69D15A311 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EB21002_1935122742 Label:Netuno SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=815238.662 Y=-3860.000 Z=-5220.338), Max=(X=825679.338 Y=3859.999 Z=5220.338) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:C05F71CC4D224A3C2255F0BBCD871655 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EB31002_1705620919 Label:NetunoAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5184784.868 Y=-24650.002 Z=-33337.131), Max=(X=5251459.136 Y=24649.996 Z=33337.133) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:9F0D6E2F4E4F942712010FB69D15A311
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:B7B32CC446925FB65757E9AAECA33EC4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA61002_1460562623 Label:Saturno SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=330573.932 Y=-9151.001 Z=-12308.068), Max=(X=355190.069 Y=9150.999 Z=12308.068) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:BB1AB5B94FB578EBA33E5B92C20655A4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EAC1002_1794818683 Label:Anel_Saturno SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2163929.689 Y=-18857.673 Z=-8561.207), Max=(X=2197534.311 Y=18857.673 Z=8561.207) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:B7B32CC446925FB65757E9AAECA33EC4
+ |   |   |   |- Guid:E4B87B45469493B7FB6B2291EC7171E1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748EA61002_1798253624 Label:SaturnoAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2102318.674 Y=-58300.007 Z=-78413.326), Max=(X=2259145.336 Y=58299.993 Z=78413.331) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:B7B32CC446925FB65757E9AAECA33EC4
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:BBC0A3464DF0D28BED3AFE8C4A9129D5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E431102_1821782241 Label:SolAtm SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-121762.032 Y=-109260.892 Z=-121762.077), Max=(X=121762.124 Y=109260.986 Z=121762.088) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:ECF17FD24A673EB88926DAA1655B1C9D
+ |   |   |   |- Guid:ECF17FD24A673EB88926DAA1655B1C9D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E4A8DFF3748E961002_1181754793 Label:Sol SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-121694.126 Y=-109199.955 Z=-121694.168), Max=(X=121694.219 Y=109200.048 Z=121694.179) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-3000000.000 Y=-3000000.414 Z=-3000000.048), Max=(X=5251459.136 Y=2999999.681 Z=3000000.048)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Sistema_Solar
+----------------------------------------------------------------------------------------------------------------
+Sistema_Solar - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Sistema_Solar Persistent Level
+ |- Always loaded Actor Count: 32 
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Sistema_Solar
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Sistema_Solar
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Sistema_Solar
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.DirectionalLight_UAID_E4A8DFF3748E561002_1106025529
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/D/KZ/D9GIORV6D4W66MBBV2KVMQ
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Sistema_Solar
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.PostProcessVolume_UAID_E4A8DFF3748E561002_1645451531
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/A/1M/W717E7YCXQWO1MH2AVF200
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E431102_1821782241
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/D/S1/DINNYRSWMMOY3A6DRJBCJ9
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E951002_1315253616
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/A/X9/UH7IJ1E6PLRX10D2FBRP4V
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E961002_1181754793
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/B/PL/2JUACWN76CTM7DCIH9SLMX
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E9C1002_1656491850
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/9/YT/FHGMJXF333D18U7N70ZN61
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E9D1002_2140139027
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/A/OD/JYFMR7DQ6ZOZUHKUH0QT40
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E9E1002_1342591204
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/8/CJ/6ER3JJLTQT94IZJNR3I6DT
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E9F1002_1745353381
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/B/WM/2314BJ9AW4I7VMM6Q1YMEB
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA01002_1678186558
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/2/X9/18DDH7DFOMOHOWL7G2CTZT
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA01002_1968139559
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/E/PF/GIIA9J53F5WRMM26IFGVT3
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA21002_1398474912
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/2/RL/0I5SU1UJX6NDAV8902Z914
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA21002_1483717913
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/4/K8/M2V3BK9T57KP5OMZGVJQZE
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA21002_1902799914
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/6/KQ/2YOT0H167VJZTKX8MAA3AT
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA21002_1954791915
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/8/OO/3WRM9V5ZYADXQEP9HDLQID
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA51002_1836880444
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/9/WB/SK9OYDQ89NXI0SLJRG0QOS
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA51002_1939353445
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/5/VM/56MHX3ZEJCD3XANTWTPWUJ
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA61002_1325919622
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/6/L2/190EUUAIOIMNTJB0EQ8Q9X
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA61002_1460562623
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/9/XF/B99HGD3OTGMECJMTX0ZDZF
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA61002_1798253624
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/5/65/E06ZAFL9XJORCLQMQDPTRQ
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EAC1002_1794818683
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/3/O7/HUYYC2T85LP7R8PV7LC728
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EAE1002_1127024036
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/A/RT/ZZLN0K2VXMY8SHNS0O2H05
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EB01002_1178953389
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/C/1I/IEDOP6VFFS0I3H87NY2XDT
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EB21002_1935122742
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/2/8P/B4JPYGVV3XQS8D04A9O247
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EB31002_1705620919
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/C/9M/1IOBIQQ9JL8UEX3CWL21WV
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/6/P8/PC4LIP9YGD9UHRY4OY5PK1
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.WorldPartitionMiniMap_UAID_E4A8DFF3748E421002_1272814007
+ |- Actor Package: /Game/__ExternalActors__/Sistema_Solar/0/2O/GNL0GC7J6J5DVIR7SXFS0S
+ |- Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Sistema_Solar
+
+----------------------------------------------------------------------------------------------------------------
+Sistema_Solar - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-3000000.000 Y=-3000000.414 Z=-3000000.048), Max=(X=5251459.136 Y=2999999.681 Z=3000000.048)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 11
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+ |- Level  2: Cell Count    1 | Cell Size   51200 | Actor Count    2 (10.5%)
+ |- Level  3: Cell Count    0 | Cell Size  102400 | Actor Count    0 (0.0%)
+ |- Level  4: Cell Count    0 | Cell Size  204800 | Actor Count    0 (0.0%)
+ |- Level  5: Cell Count    1 | Cell Size  409600 | Actor Count    2 (10.5%)
+ |- Level  6: Cell Count    0 | Cell Size  819200 | Actor Count    0 (0.0%)
+ |- Level  7: Cell Count    1 | Cell Size 1638400 | Actor Count    5 (26.3%)
+ |- Level  8: Cell Count    1 | Cell Size 3276800 | Actor Count    6 (31.6%)
+ |- Level  9: Cell Count    1 | Cell Size 6553600 | Actor Count    4 (21.1%)
+ |- Level 10: Cell Count    0 | Cell Size 13107200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+[+] Content of Grid Level 1
+[+] Content of Grid Level 2
+ |- [+] Content of Cell Sistema_Solar_MainGrid_L2_X5_Y0 (4HRIYUG9J8GL7DMG4TNV2W5AD)
+ |   |- Actor Count: 2
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA51002_1939353445
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/5/VM/56MHX3ZEJCD3XANTWTPWUJ
+ |   |- Actor Instance Guid: 02E878BD43540521460A5BB9E6F8F212
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA61002_1325919622
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/6/L2/190EUUAIOIMNTJB0EQ8Q9X
+ |   |- Actor Instance Guid: B80902134115EFA0C0A74F9DF034F767
+[+] Content of Grid Level 3
+[+] Content of Grid Level 4
+[+] Content of Grid Level 5
+ |- [+] Content of Cell Sistema_Solar_MainGrid_L5_X0_Y0 (BOPIH8DE2O68QR0NLU1LQ0I1J)
+ |   |- Actor Count: 2
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E431102_1821782241
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/D/S1/DINNYRSWMMOY3A6DRJBCJ9
+ |   |- Actor Instance Guid: BBC0A3464DF0D28BED3AFE8C4A9129D5
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E961002_1181754793
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/B/PL/2JUACWN76CTM7DCIH9SLMX
+ |   |- Actor Instance Guid: ECF17FD24A673EB88926DAA1655B1C9D
+[+] Content of Grid Level 6
+[+] Content of Grid Level 7
+ |- [+] Content of Cell Sistema_Solar_MainGrid_L7_X0_Y0 (6JPEV70JDCCCFUILNN2Y6XJY8)
+ |   |- Actor Count: 5
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E9F1002_1745353381
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/B/WM/2314BJ9AW4I7VMM6Q1YMEB
+ |   |- Actor Instance Guid: 1EE7EE144886B67B3C420ABA8772BE43
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E9C1002_1656491850
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/9/YT/FHGMJXF333D18U7N70ZN61
+ |   |- Actor Instance Guid: 37C576CE4745215098D9DC95ED0F59B8
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E9D1002_2140139027
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/A/OD/JYFMR7DQ6ZOZUHKUH0QT40
+ |   |- Actor Instance Guid: 387FC1024FF702D461650B831CEDC6E4
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E9E1002_1342591204
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/8/CJ/6ER3JJLTQT94IZJNR3I6DT
+ |   |- Actor Instance Guid: 6DB5C108471D6E44C446F1A9B0427C77
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA01002_1678186558
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/2/X9/18DDH7DFOMOHOWL7G2CTZT
+ |   |- Actor Instance Guid: 9BE6B3B44B76D961F87AC3B2ACB6882A
+[+] Content of Grid Level 8
+ |- [+] Content of Cell Sistema_Solar_MainGrid_L8_X0_Y0 (697XINGTRXGSNA4ETNK1E7ZLW)
+ |   |- Actor Count: 6
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA21002_1398474912
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/2/RL/0I5SU1UJX6NDAV8902Z914
+ |   |- Actor Instance Guid: 08A650D64F9F6C8CEB3504B252CE4A8B
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA51002_1836880444
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/9/WB/SK9OYDQ89NXI0SLJRG0QOS
+ |   |- Actor Instance Guid: 1069D8FA49B12BBEE68F75A510F82C13
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA01002_1968139559
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/E/PF/GIIA9J53F5WRMM26IFGVT3
+ |   |- Actor Instance Guid: 41DF3BF74C4944FAF6EDBEABFD9BF8F0
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA21002_1954791915
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/8/OO/3WRM9V5ZYADXQEP9HDLQID
+ |   |- Actor Instance Guid: 6EB688F24206617284DF9ABA12ACBEAA
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA21002_1902799914
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/6/KQ/2YOT0H167VJZTKX8MAA3AT
+ |   |- Actor Instance Guid: 992CA72E417A6444837F1D9299B92B99
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA21002_1483717913
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/4/K8/M2V3BK9T57KP5OMZGVJQZE
+ |   |- Actor Instance Guid: DD4EA5DF455B44DE221DED80059C20AE
+[+] Content of Grid Level 9
+ |- [+] Content of Cell Sistema_Solar_MainGrid_L9_X0_Y0 (9BLA4I605J42IENTF0SYWS8X3)
+ |   |- Actor Count: 4
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748E951002_1315253616
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/A/X9/UH7IJ1E6PLRX10D2FBRP4V
+ |   |- Actor Instance Guid: 914FBD1D4F9CEC8A9B8BBCB507CDFDC3
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA61002_1460562623
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/9/XF/B99HGD3OTGMECJMTX0ZDZF
+ |   |- Actor Instance Guid: B7B32CC446925FB65757E9AAECA33EC4
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EAC1002_1794818683
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/3/O7/HUYYC2T85LP7R8PV7LC728
+ |   |- Actor Instance Guid: BB1AB5B94FB578EBA33E5B92C20655A4
+ |   |-          Actor Path: /Game/Sistema_Solar.Sistema_Solar:PersistentLevel.StaticMeshActor_UAID_E4A8DFF3748EA61002_1798253624
+ |   |-       Actor Package: /Game/__ExternalActors__/Sistema_Solar/5/65/E06ZAFL9XJORCLQMQDPTRQ
+ |   |- Actor Instance Guid: E4B87B45469493B7FB6B2291EC7171E1
+[+] Content of Grid Level 10
+
